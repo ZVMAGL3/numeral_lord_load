@@ -1,1 +1,0 @@
-import{o as n,c,a as e,r as o}from"./index-01a17ec9.js";const p={__name:"mapEdit",setup(r){function t(){o.push("/gameRoom")}function a(){o.push("/map_exit")}return(m,s)=>(n(),c("div",null,[e("button",{onClick:t},"热坐"),e("button",{onClick:a},"编辑")]))}};export{p as default};
